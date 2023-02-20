@@ -1,0 +1,4 @@
+com/enterprise/operationsapi/OperationsApiApplicationTests.class
+com/enterprise/operationsapi/service/DepartmentServiceTest.class
+com/enterprise/operationsapi/repository/DepartmentRepositoryTest.class
+com/enterprise/operationsapi/controller/DepartmentControllerTest.class

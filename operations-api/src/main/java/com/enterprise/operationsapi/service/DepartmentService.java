@@ -2,9 +2,12 @@ package com.enterprise.operationsapi.service;
 
 import java.util.List;
 
+import org.springframework.stereotype.Service;
+
 import com.enterprise.operationsapi.entity.Department;
 import com.enterprise.operationsapi.error.DepartmentNotFoundException;
 
+@Service
 public interface DepartmentService {
 
 	public Department saveDepartment(Department department);
